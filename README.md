@@ -98,7 +98,7 @@ $ python manage.py migrate
 ---
 
 *This README provides a step-by-step guide for setting up a Django project with a virtual environment on Windows. It includes instructions for installing Django, creating a project, setting up a PostgreSQL database, and verifying migrations.*
-```
+
 
 
 
